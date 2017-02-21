@@ -1,0 +1,17 @@
+{ "printers": [
+  {
+    "model": "MG2470",
+    "brand": "Canon",
+    "productName": "Pixma MG2470",
+    "type": "inkjet",
+    "barcodes": ["4960999975979"],
+    "paperTypes": ["A4"],
+    "cartridges":
+      {
+        "black": ["PG-745", "PG-745XL"],
+        "colors": ["CL-746", "CL-746XL"]
+      },
+    "tags": ["scan", "copy"]
+  }
+
+]}

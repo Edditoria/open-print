@@ -1,0 +1,14 @@
+{ "inks" : [
+  {
+    "model": "PG-745",
+    "colors": ["black"],
+    "brand": "Canon",
+    "capacity": "8 ml",
+    "forPrinters": [
+      "iP2870", "iP2872", "MG2470",
+      "MG2570", "MG2970", "MX497"
+    ],
+    "barcodes": ["4960999974590"]
+  }
+
+]}
