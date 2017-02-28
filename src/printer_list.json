@@ -1,7 +1,7 @@
 { "printers": [
   {
-    "model": "MG2470",
     "brand": "Canon",
+    "model": "MG2470",
     "productName": "Pixma MG2470",
     "type": "inkjet",
     "barcodes": ["4960999975979"],

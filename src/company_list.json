@@ -1,7 +1,7 @@
 { "companies": [
   {
-    "name": "Canon",
-    "fullName": "Canon Inc.",
+    "brand": "Canon",
+    "name": "Canon Inc.",
     "mainWesite": "www.canon.com"
   }
 ]}

@@ -1,8 +1,8 @@
 { "inks" : [
   {
+    "brand": "Canon",
     "model": "PG-745",
     "colors": ["black"],
-    "brand": "Canon",
     "capacity": "8 ml",
     "forPrinters": [
       "iP2870", "iP2872", "MG2470",
